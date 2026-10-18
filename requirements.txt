@@ -1,0 +1,3 @@
+mcp[cli]>=1.19,<2
+google-genai>=1,<2
+python-dotenv>=1,<2
